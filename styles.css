@@ -107,4 +107,8 @@ h1 {
   .start-text {
     font-size: 2rem;
   }
+  
+  .restart {
+    font-size: 2rem;
+  }
 }
