@@ -73,7 +73,7 @@ function checkAnswer(currentLevel){
         $("#header").text("Game Over!");
         startOver();
         showStart();
-        $(".start-text").css("font-size", "2.5rem").text("Restart!");
+        $(".start-text").css("font-size", "2.5rem").text("Restart!").addClass("restart");
 
     }
 }
